@@ -1,0 +1,14 @@
+{
+    "venicequeen" : {
+        "title": "Venice Queen",
+        "artist": "Red Hot Chili Peppers"
+    },
+    "wordup" : {
+        "title": "Word Up!",
+        "artist": "Cameo"
+    },
+    "" : {
+        "title": "",
+        "artist": ""
+    },
+}
