@@ -6,9 +6,5 @@
     "wordup" : {
         "title": "Word Up!",
         "artist": "Cameo"
-    },
-    "" : {
-        "title": "",
-        "artist": ""
-    },
+    }
 }
